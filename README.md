@@ -53,13 +53,13 @@ yarn expo start
 ## Screenshots
 
 ### Main Screen
-![Main Screen](./screenshots/main-screen.png)
+![Main Screen](./screenshots/main.jpg)
 
 ### Gallery Screen
-![Gallery Screen](./screenshots/gallery-screen.png)
+![Gallery Screen](./screenshots/gal.jpg)
 
 ### Profile Screen
-![Profile Screen](./screenshots/profile-screen.png)
+![Profile Screen](./screenshots/profile.jpg)
 
 
 
